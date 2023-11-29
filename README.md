@@ -1,7 +1,5 @@
 # Projeto Final – Grupo 9
 
-------------
-
 Aqui está o documento compactando todo o projeto feito pelo Grupo 9 de Engenharia de Software - UCB - GPE17M0244.
 
 Link do Trello trabalhado com a equipe: [Grupo 9 - Engenharia de Software | Trello](https://trello.com/b/9a83qfR4/grupo-9-engenharia-de-software);
@@ -14,7 +12,7 @@ Link da apresentação do Grupo 9: [final.mp4 - Google Drive](https://drive.goog
 
 Imagem com o Business Model Canvas (BMC) do projeto:
 
-![](BMC - Grupo 9.png)
+![](bmc.png)
 
 Link da planilha de preços da aplicação: [climastyle atualizado 2023 - Planilhas Google](https://docs.google.com/spreadsheets/d/1EnNFhsG5_4CDj7f5a3di8tlFC5EKBIFzNUYDRCAlGS8/edit#gid=1739102586);
 
