@@ -22,6 +22,8 @@ Imagem do modelo conceitual do projeto:
 
 ![](modelo.png)
 
+Link do vídeo da apresentação do projeto: [Apresentação Final - Drive](https://drive.google.com/file/d/19Z3KpUymKa1L5NnLQU33VmG20KKOQoG8/view?usp=sharing)
+
 Alunos: 
 
 **Guilherme Ribeiro Soares** – UC21200089;
