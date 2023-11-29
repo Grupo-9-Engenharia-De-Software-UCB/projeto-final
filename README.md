@@ -1,4 +1,6 @@
-**Projeto Final – Grupo 9**
+# Projeto Final – Grupo 9
+
+------------
 
 Aqui está o documento compactando todo o projeto feito pelo Grupo 9 de Engenharia de Software - UCB - GPE17M0244.
 
@@ -24,16 +26,16 @@ Imagem do modelo conceitual do projeto:
 
 Alunos: 
 
-`	`Guilherme Ribeiro Soares – UC21200089;
+**Guilherme Ribeiro Soares** – UC21200089;
 
-`	`Renan Gama -  UC23102230;
+**Renan Gama** -  UC23102230;
 
-`	`Moziel Sirley Alves de Souza - UC23100729;
+**Moziel Sirley Alves de Souza** - UC23100729;
 
-`	`Pedro Gustavo - ;
+**Pedro Gustavo da Rocha Soares Caixeta** - UC23100844;
 
-`	`Luiz Felipe - UC23100072;
+**Luiz Felipe** - UC23100072;
 
-`	`Alfredo Gustavo - ?;
+**Alfredo Gustavo** - ?;
 
-`	`Rafael Vaz Cavalcanti - UC21200047; 
+**Rafael Vaz Cavalcanti** - UC21200047; 
